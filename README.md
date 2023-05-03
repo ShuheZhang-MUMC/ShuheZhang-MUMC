@@ -1,6 +1,6 @@
 <h3 align="center">
-  Welcome to Shuhe Zhang's profile !
-  <img src="https://github.com/ShuheZhang-MUMC/ShuheZhang-MUMC/blob/main/cone.gif" width="128">
+  Welcome to Shuhe Zhang's profile ! <br>
+  <img src="https://github.com/ShuheZhang-MUMC/ShuheZhang-MUMC/blob/main/cone.gif" width="256">
 </h3>
 
 
