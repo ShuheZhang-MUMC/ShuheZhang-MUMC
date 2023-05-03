@@ -1,4 +1,10 @@
-### Hi there 👋
+<h3 align="center">
+  Welcome to Shuhe Zhang's profile !
+  <img src="https://en.wikipedia.org/wiki/Hyperboloid#/media/File:Cylinder_-_hyperboloid_-_cone.gif" width="28">
+</h3>
+
+
+
 
 **I am a PhD student @ Maastricht University Medical Center +, Eye Clinics**
 <br>
