@@ -8,12 +8,11 @@
 - 🔭 I’m currently working on Retinal image restoration and computational imaging.
 - 🌱 I’m currently learning all including my mother language.
 
-## 🧠 Here is some of my research:
+## 🧠 Here are some of my research:
 
 <p align="middle">
-  <a href="https://github.com/ShuheZhang-MUMC/elfpie_algorithm"><img width="365" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ShuheZhang-MUMC&repo=elfpie_algorithm&theme=light&show_icons=ture" alt="elfpie_algorithm"></a>
-  <a href="https://github.com/ShuheZhang-MUMC/Retinal-Image-Blind-Deconvolution"><img width="365" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ShuheZhang-MUMC&repo=Retinal-Image-Blind-Deconvolution&theme=light&show_icons=ture" alt="Retinal-Image-Blind-Deconvolution"></a>
-  <a href="https://github.com/ShuheZhang-MUMC/A-list-of-retinal-image-enhancement-papers"><img width="365" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ShuheZhang-MUMC&repo=A-list-of-retinal-image-enhancement-papers&theme=light&show_icons=ture" alt="Retinal image Enhancement"></a>
+  <a href="https://github.com/ShuheZhang-MUMC/elfpie_algorithm"><img width="512" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ShuheZhang-MUMC&repo=elfpie_algorithm&theme=light&show_icons=ture" alt="elfpie_algorithm"></a>
+  <a href="https://github.com/ShuheZhang-MUMC/Retinal-Image-Blind-Deconvolution"><img width="512" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ShuheZhang-MUMC&repo=Retinal-Image-Blind-Deconvolution&theme=light&show_icons=ture" alt="Retinal-Image-Blind-Deconvolution"></a>
 </p>
 
 
