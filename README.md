@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 **I am a PhD student @ Maastricht University Medical Center +, Eye Clinics**
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=ShuheZhang-MUMC&show_icons=true" />
 </a>
+<br>
 
 - 🔭 I’m currently working on Retinal image restoration and computational imaging.
 - 🌱 I’m currently learning all including my mother language.
