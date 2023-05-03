@@ -2,7 +2,7 @@
 
 **I am a PhD student @ Maastricht University Medical Center +, Eye Clinics**
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=EvoLandEco&show_icons=true" />
+  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=ShuheZhang-MUMC&show_icons=true" />
 </a>
 
 - 🔭 I’m currently working on Retinal image restoration and computational imaging.
