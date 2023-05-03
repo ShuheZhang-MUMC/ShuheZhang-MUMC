@@ -1,6 +1,6 @@
 <h3 align="center">
   Welcome to Shuhe Zhang's profile !
-  <img src="https://en.wikipedia.org/wiki/Hyperboloid#/media/File:Cylinder_-_hyperboloid_-_cone.gif" width="28">
+  <img src="https://github.com/ShuheZhang-MUMC/ShuheZhang-MUMC/blob/main/cone.gif" width="28">
 </h3>
 
 
