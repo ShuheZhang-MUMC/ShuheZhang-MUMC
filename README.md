@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+**I am a PhD student @ Maastricht University Medical Center +, Eye Clinics**
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=EvoLandEco&show_icons=true" />
+</a>
+
+- 🔭 I’m currently working on Retinal image restoration and computational imaging.
+- 🌱 I’m currently learning all including my mother language.
+
 <!--
 **ShuheZhang-MUMC/ShuheZhang-MUMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
