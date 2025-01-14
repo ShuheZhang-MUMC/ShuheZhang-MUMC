@@ -6,7 +6,7 @@
 
 
 
-**I am a PhD student @ Maastricht University Medical Center +, Eye Clinics**
+**I am a post-doc @ Tsinghua University**
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=ShuheZhang-MUMC&show_icons=true" />
